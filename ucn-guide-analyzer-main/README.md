@@ -2,7 +2,7 @@
 
 A screening tool for choosing ultracold-neutron (UCN) guide and storage coatings. It computes the Fermi potential V_F, critical velocity v_c and loss factor η for common materials, compares coatings, estimates a storage lifetime, and does a simple gravity/magnetic energy budget.
 
-Live: https://ucn-guide-analyzer.vercel.app
+Live: https://ucn-guide-analyser-ver-3.vercel.app
 
 **Authorship.** Concept, scope, physics choices and review: Abeer Zahra. Implementation was developed with AI assistance (Claude, Anthropic).
 
